@@ -12,11 +12,11 @@ namespace ConsoleApp5
         {
             int age;
             float water;
-            bool howmuchMoney;
+            bool gold;
             double numberN;
             char chat;
             string name;
-            long anExperience;
+            long experience;
             byte century;
             ulong map;
             short armor;
